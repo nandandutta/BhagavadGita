@@ -30,6 +30,11 @@ This project aims to provide insightful answers based on the Bhagavad Gita by us
 
 ### How to run it on your own machine
 
+Download LLM Model From Hugging face
+
+meta-llama/Meta-Llama-3.1-8B
+
+
 1. Install the requirements
 
    ```
