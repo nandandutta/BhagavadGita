@@ -15,7 +15,7 @@ import streamlit as st
 load_dotenv()
 
 # Set Pinecone API key and environment
-os.environ['PINECONE_API_KEY'] = '4961199f-ac64-44c4-9fda-f2decb00ac27'  # Replace with your actual API key
+os.environ['PINECONE_API_KEY'] = '4961199f-ac64'  # Replace with your actual API key
 os.environ['PINECONE_ENVIRONMENT'] = 'us-east-1'
 
 # Initialize Pinecone
