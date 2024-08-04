@@ -3,7 +3,7 @@ import os
 from pinecone import Pinecone, ServerlessSpec
 
 # Set your Pinecone API key and environment directly in the script
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "4961199f-ac64-44c4-9fda-f2decb00ac27")
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY", "4961199f44c4-9fda-f2decb00ac27")
 PINECONE_API_ENV = os.getenv("PINECONE_API_ENV", "us-east-1")
 
 # Initialize Pinecone
